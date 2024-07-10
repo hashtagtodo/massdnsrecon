@@ -12,11 +12,11 @@ Instructions for use:
 
 1. Download the git
 
-```sh git clone https://github.com/hashtagtodo/massdnsrecon.git ```
+```git clone https://github.com/hashtagtodo/massdnsrecon.git ```
 
 2. Install the requirements
 
- ```sh pip install -r requirements.txt ```
+ ```pip install -r requirements.txt ```
 
 3. When you run the script, it will ask for the target domain. You should enter the domain without any extension, for example: domainexample
 With this, the script will search among all possible extensions like .com, .net, .org, etc.
